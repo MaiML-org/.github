@@ -1,4 +1,6 @@
 
+🌐 Language: **日本語** | [English](README_en.md)
+
 ---
 
 ## 関連リンク
